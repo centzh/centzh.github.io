@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Machine Learning and Data Mining"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "University of Sydney, School of Computer Science"
 date: 2015-01-01
 location: "City, Country"
 ---
